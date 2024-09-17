@@ -70,7 +70,7 @@ import java.util.NoSuchElementException;
  *  For additional documentation, see
  *  <a href="https://algs4.cs.princeton.edu/33balanced">Section 3.3</a> of
  *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
- *
+ *  Completed for CS1501 by Lauren Rose
  *  @author Robert Sedgewick
  *  @author Kevin Wayne
  */
