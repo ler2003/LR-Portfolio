@@ -1,3 +1,4 @@
+//Lauren Rose
 window.addEventListener("load", setup);
 
 function setup() {
