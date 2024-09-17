@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smartphone Database</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Smartphone Database</h1>
+
+    <section>
+        <h2>View All Smartphone Entries</h2>
+        <button id="viewAllBtn">View all Smartphone entries</button>
+        <ul id="smartphoneList"></ul>
+    </section>
+
+    <section>
+        <h2>View Smartphone</h2>
+        <input type="number" id="viewSmartphoneId" placeholder="Enter Smartphone ID">
+        <button id="viewSmartphoneBtn">View Smartphone</button>
+        <div id="smartphoneDetails"></div>
+    </section>
+
+    <section>
+        <h2>Add a New Smartphone</h2>
+        <input type="text" id="newBrand" placeholder="Brand">
+        <input type="number" id="newPrice" placeholder="Price">
+        <input type="text" id="newScreen" placeholder="Screen">
+        <input type="text" id="newPixels" placeholder="Pixels">
+        <input type="text" id="newResolution" placeholder="Resolution">
+        <input type="text" id="newStorage" placeholder="Storage">
+        <input type="text" id="newRam" placeholder="Ram">
+        <input type="text" id="newBattery" placeholder="Battery">
+        <input type="text" id="newWeight" placeholder="Weight">
+        <button id="addSmartphoneBtn">Add new Smartphone</button>
+    </section>
+
+    <section>
+        <h2>Update an Existing Smartphone</h2>
+        <input type="number" id="updateId" placeholder="ID">
+        <input type="text" id="updateBrand" placeholder="Brand">
+        <input type="number" id="updatePrice" placeholder="Price">
+        <input type="text" id="updateScreen" placeholder="Screen">
+        <input type="text" id="updatePixels" placeholder="Pixels">
+        <input type="text" id="updateResolution" placeholder="Resolution">
+        <input type="text" id="updateStorage" placeholder="Storage">
+        <input type="text" id="updateRam" placeholder="Ram">
+        <input type="text" id="updateBattery" placeholder="Battery">
+        <input type="text" id="updateWeight" placeholder="Weight">
+        <button id="updateSmartphoneBtn">Update Smartphone</button>
+    </section>
+
+    <section>
+        <h2>Delete Smartphone</h2>
+        <input type="number" id="deleteId" placeholder="ID">
+        <button id="deleteSmartphoneBtn">Delete Smartphone</button>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

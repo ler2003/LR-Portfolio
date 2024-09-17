@@ -1,0 +1,52 @@
+{
+  "smartphones": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "price": 999,
+      "screen": "6.1 inches",
+      "pixels": "12 MP",
+      "resolution": "1170 x 2532",
+      "storage": "128 GB",
+      "ram": "6 GB",
+      "battery": "2815 mAh",
+      "weight": "174 g"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "price": 899,
+      "screen": "6.2 inches",
+      "pixels": "64 MP",
+      "resolution": "1080 x 2400",
+      "storage": "128 GB",
+      "ram": "8 GB",
+      "battery": "4000 mAh",
+      "weight": "169 g"
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "price": 799,
+      "screen": "6.0 inches",
+      "pixels": "12.2 MP",
+      "resolution": "1080 x 2340",
+      "storage": "128 GB",
+      "ram": "6 GB",
+      "battery": "3700 mAh",
+      "weight": "151 g"
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "price": 729,
+      "screen": "6.55 inches",
+      "pixels": "48 MP",
+      "resolution": "1080 x 2400",
+      "storage": "128 GB",
+      "ram": "8 GB",
+      "battery": "4500 mAh",
+      "weight": "188 g"
+    }
+  ]
+}
