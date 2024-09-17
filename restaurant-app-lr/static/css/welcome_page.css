@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    width: 900px;
+    position: relative;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+h1 {
+    background-color: lightblue;
+    padding: 15px 15px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.kitchen-button {
+    background-color: orange;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
