@@ -78,6 +78,6 @@ If you have any questions or would like to learn more about any of these project
 
 ---
 
-> *This repository only includes coursework I completed. If you would like to see my person porjects, please visit my website:*
-[Website](https://ler2003.github.io)
+> *This repository only includes coursework I completed. If you would like to see my personal projects, please visit [my website.](https://ler2003.github.io)*
+
 
