@@ -6,53 +6,53 @@ Below is an overview of the project folders included in this repository:
 
 ---
 
-## `data-models`
+## data-models
 
 **Overview**:  
 Data modeling and visualization work using R, focused on global economic datasets. Created as part of a political science course, these models use real-world economic data to investigate international trends through statistical techniques and exploratory data analysis.
 
 ---
 
-## `data-structures-alg-lr`
+## data-structures-alg-lr
 
 **Overview**:  
 A collection of classic data structure implementations and algorithms developed for the *Data Structures and Algorithms* course.
 
 Includes:
 
-- `ford-fulkerson-lr`:  
+- ford-fulkerson-lr:  
   Implementation of the **Ford-Fulkerson** method, a greedy algorithm for computing the maximum flow in a network. It repeatedly finds augmenting paths and adjusts residual capacities accordingly.
 
-- `priority-queues-lr`:  
+- priority-queues-lr:  
   Two custom **priority queues** used to organize car listings by mileage and price. Demonstrates how elements with priority values are handled, including enqueueing and dequeuing based on different criteria.
 
-- `red-black-trees-lr`:  
+- red-black-trees-lr:  
   Implementation of a self-balancing **Red-Black Tree**. Each node is assigned a color (red or black) and must adhere to specific balancing rules. These properties help maintain tree balance for efficient insertions, deletions, and lookups.
 
 ---
 
-## `http-requests-lr`
+## http-requests-lr
 
 **Overview**:  
 A project from a Web Development course to practice client-server interactions using **HTTP requests**. Built a frontend interface to manage a smartphone catalog and performed **CRUD operations** (Create, Read, Update, Delete) on a JSON-based backend.
 
 ---
 
-## `processor-optimization`
+## processor-optimization
 
 **Overview**:  
 Final report from a Computer Architecture class investigating various CPU designs using the **SimpleScalar simulator**. Performance data was collected under different processor configurations and analyzed with Python. Visualizations were generated to compare architecture efficiency and determine the most optimal design.
 
 ---
 
-## `restaurant-app-lr`
+## restaurant-app-lr
 
 **Overview**:  
 Final project for a Web Development course. This full-stack restaurant application features a digital menu and order system. Orders are stored in a JSON database and server-side logic is handled with **Python**, supporting dynamic content and user interaction.
 
 ---
 
-## `searching-machine-learning`
+## searching-machine-learning
 
 **Overview**:  
 Two separate projects from a Machine Learning course:
@@ -65,7 +65,7 @@ Two separate projects from a Machine Learning course:
 
 ---
 
-## `web-storage-lr`
+## web-storage-lr
 
 **Overview**:  
 An interactive shopping list application built with **Web Storage API**. Allows users to persistently store, retrieve, and delete items from local storage across browser sessions. Demonstrates core client-side scripting techniques and local data management.
@@ -78,4 +78,6 @@ If you have any questions or would like to learn more about any of these project
 
 ---
 
-> *This repository is continuously updated as I expand my technical skills and build new projects.*
+> *This repository only includes coursework I completed. If you would like to see my person porjects, please visit my website:*
+[Website](https://ler2003.github.io)
+
